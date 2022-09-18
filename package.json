@@ -1,0 +1,19 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Assignment1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktnaveen1174/Practice1.git"
+  },
+  "author": "Naveen Kanmani Thirunavukkarasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktnaveen1174/Practice1/issues"
+  },
+  "homepage": "https://github.com/ktnaveen1174/Practice1#readme"
+}
